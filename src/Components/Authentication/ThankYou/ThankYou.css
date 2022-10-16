@@ -1,0 +1,38 @@
+
+.registerealContainer
+{
+    position: relative;
+    top: 451px;
+    left: 210px;
+}
+
+
+.ant-input
+{
+    width:314px;
+    margin-bottom: 23px;
+}
+
+.inputContainer
+{
+    position: relative;
+    top: 33px;
+}
+
+.registerealfirst
+{
+    display: flex;
+    align-content: space-between;
+    justify-content: flex-end;
+    align-items: flex-start;
+    position: absolute;
+left: -129px;
+top: -97px;
+
+}
+
+.marketingGroup >div
+{
+margin-top: 30px;
+}
+
